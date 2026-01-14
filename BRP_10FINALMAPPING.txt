@@ -1,0 +1,10 @@
+1:ROT_C_USER
+2:ROT_D_USER
+3:cap
+4:hips
+5:missile_B
+6:L_wing
+7:R_wing
+8:ROT_B_USER
+9:ROT_A_USER
+10:ROT_E_USER

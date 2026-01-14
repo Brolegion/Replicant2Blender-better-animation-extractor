@@ -1,0 +1,14 @@
+0:N_ALL
+1:ROT_D_USER
+2:L_hand
+3:R_hand
+4:ROT_B_USER
+5:ROT_E_USER
+6:Hips
+7:ROT_C_USER
+8:ROT_A_USER
+9:L_cap
+10:L_hand_gun
+11:R_cap
+12:R_hand_gun
+13:antenna
